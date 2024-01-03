@@ -1,0 +1,7 @@
+{
+  "name": "seddik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
